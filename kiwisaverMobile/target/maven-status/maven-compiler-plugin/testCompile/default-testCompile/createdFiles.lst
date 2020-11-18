@@ -1,0 +1,8 @@
+com\westpac\webapp\Mobilepages\KiwiSaverCalcPage.class
+com\westpac\webapp\Mobilepages\AppiumPageObject$1.class
+com\westpac\webapp\testRunner\TestRunner.class
+com\westpac\webapp\Mobilepages\AppiumPageObject.class
+com\westpac\webapp\testRunner\AppiumServerController.class
+com\westpac\webapp\Mobilesteps\KiwiSaverSteps.class
+com\westpac\webapp\Mobilepages\HomePage.class
+com\westpac\webapp\MobilestepDef\KiwiSaverCalcStepDef.class
